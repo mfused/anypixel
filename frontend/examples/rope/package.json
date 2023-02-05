@@ -14,7 +14,7 @@
     "b-spline": "^1.0.5",
     "random-seed": "^0.3.0",
     "svg-path-parser": "^1.0.1",
-    "three": "^0.74.0"
+    "three": "^0.148.0"
   },
   "scripts": {
     "build": "browserify -d src/app.js > index.js"
