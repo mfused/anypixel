@@ -14,7 +14,7 @@
     "anypixel": "^1.0.0",
     "browser-sync": "^2.11.1",
     "cli": "^0.11.1",
-    "fs-extra": "^0.26.7"
+    "fs-extra": "^0.30.0"
   },
   "preferGlobal": true
 }
