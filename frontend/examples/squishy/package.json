@@ -15,7 +15,7 @@
     "liquidfun-emscripten": "^1.1.2",
     "lucy-b2": "^1.0.1",
     "pixi.js": "^3.0.9",
-    "stats.js": "0.0.14-master",
+    "stats.js": "0.17.0",
     "three": "^0.74.0"
   },
   "browser": {
